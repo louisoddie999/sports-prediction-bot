@@ -1,0 +1,21 @@
+team_id,team_name,rank,points,matches_played,wins,draws,losses,goals_for,goals_against,goal_diff,form
+529,Barcelona,1,88,38,28,4,6,70,20,50,LWLLW
+541,Real Madrid,2,78,38,24,6,8,75,36,39,DWWLW
+530,Atletico Madrid,3,77,38,23,8,7,70,33,37,DWDWL
+548,Real Sociedad,4,71,38,21,8,9,51,35,16,WLWWD
+533,Villarreal,5,64,38,19,7,12,59,40,19,DLWWW
+543,Real Betis,6,60,38,17,9,12,46,41,5,DWLDW
+727,Osasuna,7,53,38,15,8,15,37,42,-5,WLWLW
+531,Athletic Club,8,51,38,14,9,15,47,43,4,DLLWL
+798,Mallorca,9,50,38,14,8,16,37,43,-6,WLWLW
+547,Girona,10,49,38,13,10,15,58,55,3,LLDLD
+728,Rayo Vallecano,11,49,38,13,10,15,45,53,-8,LWLLL
+536,Sevilla,12,49,38,13,10,15,47,54,-7,LLDDW
+538,Celta Vigo,13,43,38,11,10,17,43,53,-10,WLDLL
+724,Cadiz,14,42,38,10,12,16,30,53,-23,DWLWL
+546,Getafe,15,42,38,10,12,16,34,45,-11,DWWDL
+532,Valencia,16,42,38,11,9,18,42,45,-3,DDLWW
+723,Almeria,17,41,38,11,8,19,49,65,-16,DDLWL
+720,Valladolid,18,40,38,11,7,20,33,63,-30,DDWLL
+540,Espanyol,19,37,38,8,13,17,52,69,-17,DDDWL
+797,Elche,20,25,38,5,10,23,30,67,-37,DWDDW

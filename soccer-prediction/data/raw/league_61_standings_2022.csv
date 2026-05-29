@@ -1,0 +1,21 @@
+team_id,team_name,rank,points,matches_played,wins,draws,losses,goals_for,goals_against,goal_diff,form
+85,Paris Saint Germain,1,85,38,27,4,7,89,40,49,LDWWW
+116,Lens,2,84,38,25,9,4,68,29,39,WWWWW
+81,Marseille,3,73,38,22,7,9,67,40,27,LLLWL
+94,Rennes,4,68,38,21,5,12,69,39,30,WWWWL
+79,Lille,5,67,38,19,10,9,65,44,21,DWWDL
+91,Monaco,6,65,38,19,8,11,70,58,12,LLLDW
+80,Lyon,7,62,38,18,8,12,65,47,18,LWWLW
+99,Clermont Foot,8,59,38,17,8,13,45,49,-4,WWLWD
+84,Nice,9,58,38,15,13,10,48,37,11,WWDLW
+97,Lorient,10,55,38,15,10,13,52,53,-1,WLLDW
+93,Reims,11,51,38,12,15,11,45,45,0,LLDLW
+82,Montpellier,12,50,38,15,5,18,65,62,3,WLWDL
+96,Toulouse,13,48,38,13,9,16,51,57,-6,WDDDD
+106,Stade Brestois 29,14,44,38,11,11,16,44,54,-10,LWWWL
+95,Strasbourg,15,40,38,9,13,16,51,59,-8,LDDWW
+83,Nantes,16,36,38,7,15,16,37,55,-18,WLLDL
+108,Auxerre,17,35,38,8,11,19,35,63,-28,LDLLD
+98,Ajaccio,18,26,38,7,5,26,23,74,-51,WLLLD
+110,Estac Troyes,19,24,38,4,12,22,45,81,-36,DLDLL
+77,Angers,20,18,38,4,6,28,33,81,-48,LWDLL

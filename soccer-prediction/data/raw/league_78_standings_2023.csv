@@ -1,0 +1,19 @@
+team_id,team_name,rank,points,matches_played,wins,draws,losses,goals_for,goals_against,goal_diff,form
+168,Bayer Leverkusen,1,90,34,28,6,0,89,24,65,WWWDD
+172,VfB Stuttgart,2,73,34,23,4,7,78,39,39,WWWDL
+157,Bayern Munich,3,72,34,23,3,8,94,45,49,LWLWW
+173,RB Leipzig,4,65,34,19,8,7,77,39,38,DDDWW
+165,Borussia Dortmund,5,63,34,18,9,7,68,43,25,WLWLD
+169,Eintracht Frankfurt,6,47,34,11,14,9,51,50,1,DDLLW
+167,1899 Hoffenheim,7,46,34,13,7,14,66,66,0,WWDLW
+180,FC Heidenheim,8,42,34,10,12,12,50,55,-5,WDDWL
+162,Werder Bremen,9,42,34,11,9,14,48,54,-6,WDDWW
+160,SC Freiburg,10,42,34,11,9,14,45,58,-13,LDDLD
+170,FC Augsburg,11,39,34,10,9,15,50,60,-10,LLLLL
+161,VfL Wolfsburg,12,37,34,10,7,17,41,56,-15,LLWWW
+164,FSV Mainz 05,13,35,34,7,14,13,39,51,-12,WWDDD
+163,Borussia Monchengladbach,14,34,34,7,13,14,56,67,-11,LDDDL
+182,Union Berlin,15,33,34,9,6,19,33,58,-25,WLLDL
+176,Vfl Bochum,16,33,34,7,12,15,42,74,-32,LLWWL
+192,1.FC Köln,17,27,34,5,12,17,28,60,-32,LWDDL
+181,SV Darmstadt 98,18,17,34,3,8,23,30,86,-56,LLLLW

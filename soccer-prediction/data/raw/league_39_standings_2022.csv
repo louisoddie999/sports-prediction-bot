@@ -1,0 +1,21 @@
+team_id,team_name,rank,points,matches_played,wins,draws,losses,goals_for,goals_against,goal_diff,form
+50,Manchester City,1,89,38,28,5,5,94,33,61,LDWWW
+42,Arsenal,2,84,38,26,6,6,88,43,45,WLLWW
+33,Manchester United,3,75,38,23,6,9,58,43,15,WWWWL
+34,Newcastle,4,71,38,19,14,5,68,33,35,DDWDL
+40,Liverpool,5,67,38,19,10,9,75,47,28,DDWWW
+51,Brighton,6,62,38,18,8,12,72,53,19,LDWLW
+66,Aston Villa,7,61,38,18,7,13,51,46,5,WDWLL
+47,Tottenham,8,60,38,18,6,14,70,63,7,WLLWL
+55,Brentford,9,59,38,15,14,9,58,46,12,WWWLW
+36,Fulham,10,52,38,15,7,16,55,53,2,LDWWL
+52,Crystal Palace,11,45,38,11,12,15,40,49,-9,DDWLW
+49,Chelsea,12,44,38,11,11,16,38,47,-9,DLLDW
+39,Wolves,13,41,38,11,8,19,31,58,-27,LDLWL
+48,West Ham,14,40,38,11,7,20,42,55,-13,LWLWL
+35,Bournemouth,15,39,38,11,6,21,37,71,-34,LLLLW
+65,Nottingham Forest,16,38,38,9,11,18,38,68,-30,DWDWL
+45,Everton,17,36,38,8,12,18,34,57,-23,WDLWD
+46,Leicester,18,34,38,9,7,22,51,68,-17,WDLLD
+63,Leeds,19,31,38,7,10,21,48,78,-30,LLDLL
+41,Southampton,20,25,38,6,7,25,36,73,-37,DLLLL

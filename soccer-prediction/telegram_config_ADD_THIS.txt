@@ -1,0 +1,12 @@
+# Add this to config.py after OPENWEATHER_BASE_URL
+
+# Telegram Configuration
+# How to get these:
+# 1. Create bot: Message @BotFather on Telegram, send /newbot, follow instructions
+# 2. Get token: BotFather will give you a token like "123456:ABC-DEF..."
+# 3. Get Chat ID: Message @userinfobot on Telegram, it will send your chat ID
+# 4. Replace the values below with your bot token and chat ID
+
+TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"  # Replace with your bot token
+TELEGRAM_CHAT_ID = "YOUR_TELEGRAM_CHAT_ID"  # Replace with your chat ID
+TELEGRAM_ENABLED = False  # Set to True after adding your tokens above

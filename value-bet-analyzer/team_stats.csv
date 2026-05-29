@@ -1,0 +1,293 @@
+# Team Name,Last 5 Form (W/D/L),Goals Scored (last 5),Goals Conceded (last 5),League Position,Home/Away
+# Form: W=Win, D=Draw, L=Loss (e.g., W,W,D,L,W)
+# Example: Arsenal,W,W,D,W,W,12,5,2,Premier League,Home
+
+# Instructions:
+# 1. Go to FBref.com, Sofascore.com, or similar stats site
+# 2. Find the team's last 5 matches
+# 3. Record: W (win), D (draw), or L (loss) for each match
+# 4. Count total goals scored and conceded in those 5 matches
+# 5. Add league position if available
+# 6. Specify if this is Home or Away team
+
+# Format: TeamName,Form1,Form2,Form3,Form4,Form5,GoalsScored,GoalsConceded,LeaguePosition,League,HomeAway
+
+# Add your team data below (one line per team):
+Arsenal,W,W,D,W,L,12,5,2,Premier League,Home
+Chelsea,L,D,W,W,W,10,6,3,Premier League,Away
+Mexico,W,W,D,L,W,8,3,15,International,Home
+South Africa,L,D,D,W,L,5,7,25,International,Away
+Brazil,W,W,W,D,W,15,2,1,International,Home
+Germany,W,W,W,W,D,12,3,2,International,Home
+Spain,W,D,W,W,W,11,4,3,International,Home
+Arsenal,WWLDD,6,4,0,Unknown,Home
+Manchester City,WDWLD,6,4,0,Unknown,Home
+Aston Villa,DLWLD,4,6,0,Unknown,Home
+Manchester Utd,WWWWD,9,1,0,Unknown,Home
+Chelsea,WWWWL,8,2,0,Unknown,Home
+Liverpool,LWLDD,4,6,0,Unknown,Home
+Brentford,WWLLW,6,4,0,Unknown,Home
+Everton,WDDWD,7,3,0,Unknown,Home
+Sunderland,LWLWL,4,6,0,Unknown,Home
+Fulham,LLWLW,4,6,0,Unknown,Home
+Bournemouth,DWWDW,8,2,0,Unknown,Home
+Newcastle,LLLDW,3,7,0,Unknown,Home
+Crystal Palace,WDLLD,4,6,0,Unknown,Home
+Brighton,LDLDD,3,7,0,Unknown,Home
+Tottenham,LDDLL,2,8,0,Unknown,Home
+Leeds,WLDWL,5,5,0,Unknown,Home
+Nottingham,LDWDW,6,4,0,Unknown,Home
+West Ham,WLWWL,6,4,0,Unknown,Home
+Burnley,LLDDD,3,7,0,Unknown,Home
+Wolves,LLLDD,2,8,0,Unknown,Home
+Cardiff,WDWDW,8,2,0,Unknown,Home
+Lincoln,WWWWD,9,1,0,Unknown,Home
+Bolton,WWWWD,9,1,0,Unknown,Home
+Stockport County,DWWDW,8,2,0,Unknown,Home
+Huddersfield,DWWWL,7,3,0,Unknown,Home
+Bradford City,LWLLL,2,8,0,Unknown,Home
+Luton,WWLLD,5,5,0,Unknown,Home
+Wycombe,WDWLW,7,3,0,Unknown,Home
+Stevenage,LLWDD,4,6,0,Unknown,Home
+Peterborough,WLLWL,4,6,0,Unknown,Home
+Reading,LWDDL,4,6,0,Unknown,Home
+Mansfield,DDDDW,6,4,0,Unknown,Home
+Exeter,DLDWW,6,4,0,Unknown,Home
+AFC Wimbledon,WWLDL,5,5,0,Unknown,Home
+Barnsley,LDWLD,4,6,0,Unknown,Home
+Plymouth,LLDWW,5,5,0,Unknown,Home
+Blackpool,DLLWL,3,7,0,Unknown,Home
+Leyton Orient,DLLLW,3,7,0,Unknown,Home
+Northampton,WDLLL,3,7,0,Unknown,Home
+Doncaster,LWLWD,5,5,0,Unknown,Home
+Burton,DLDLL,2,8,0,Unknown,Home
+Wigan,LLLDL,1,9,0,Unknown,Home
+Rotherham,LWWDL,5,5,0,Unknown,Home
+Port Vale,DLWLL,3,7,0,Unknown,Home
+Bromley,WWDWD,8,2,0,Unknown,Home
+Notts Co,WWWWW,10,0,0,Unknown,Home
+Swindon,WWWLL,6,4,0,Unknown,Home
+MK Dons,WDWWW,9,1,0,Unknown,Home
+Cambridge Utd,LWWWW,8,2,0,Unknown,Home
+Salford,LWLWW,6,4,0,Unknown,Home
+Walsall,LLDDD,3,7,0,Unknown,Home
+Chesterfield,WDWLD,6,4,0,Unknown,Home
+Crewe,WDWDL,6,4,0,Unknown,Home
+Barnet,WDDWW,8,2,0,Unknown,Home
+Colchester,WLLWW,6,4,0,Unknown,Home
+Grimsby,DDWWW,8,2,0,Unknown,Home
+Accrington,WWWDL,7,3,0,Unknown,Home
+Gillingham,WLLWW,6,4,0,Unknown,Home
+Fleetwood,LLWLL,2,8,0,Unknown,Home
+Oldham,LLLWD,3,7,0,Unknown,Home
+Tranmere,LLLLL,0,10,0,Unknown,Home
+Cheltenham,LLLLW,2,8,0,Unknown,Home
+Bristol Rovers,LWWLL,4,6,0,Unknown,Home
+Crawley,LWDWL,5,5,0,Unknown,Home
+Barrow,LLLLL,0,10,0,Unknown,Home
+Shrewsbury,LDLLW,3,7,0,Unknown,Home
+Newport,DLLWL,3,7,0,Unknown,Home
+Harrogate,WLLLL,2,8,0,Unknown,Home
+PSG,WWWWW,10,0,0,Unknown,Home
+Lens,WWLWW,8,2,0,Unknown,Home
+Lyon,WWWWW,10,0,0,Unknown,Home
+Marseille,LDWWL,5,5,0,Unknown,Home
+Lille,DLLLL,1,9,0,Unknown,Home
+Rennes,LLLDW,3,7,0,Unknown,Home
+Strasbourg,LLWWD,5,5,0,Unknown,Home
+Toulouse,LDWWL,5,5,0,Unknown,Home
+Angers,WWDLL,5,5,0,Unknown,Home
+Monaco,DWDLL,4,6,0,Unknown,Home
+Lorient,LWWWD,7,3,0,Unknown,Home
+Brest,WDLLW,5,5,0,Unknown,Home
+Le Havre,WLDDW,6,4,0,Unknown,Home
+Nice,DDWLD,5,5,0,Unknown,Home
+Paris FC,DDDWL,5,5,0,Unknown,Home
+Auxerre,DDLLL,2,8,0,Unknown,Home
+Nantes,LLLLW,2,8,0,Unknown,Home
+Metz,DLLLD,2,8,0,Unknown,Home
+Troyes,LLLWW,4,6,0,Unknown,Home
+Reims,DWWLW,7,3,0,Unknown,Home
+Le Mans,DWWDD,7,3,0,Unknown,Home
+St Etienne,WLLWD,5,5,0,Unknown,Home
+Red Star,LDDWL,4,6,0,Unknown,Home
+Dunkerque,DLLWW,5,5,0,Unknown,Home
+Pau FC,WWDLD,6,4,0,Unknown,Home
+Guingamp,DLWWW,7,3,0,Unknown,Home
+Annecy,DWWWL,7,3,0,Unknown,Home
+Montpellier,LWWLL,4,6,0,Unknown,Home
+Rodez,WDWDD,7,3,0,Unknown,Home
+Grenoble,DWDLL,4,6,0,Unknown,Home
+Nancy,WDLLW,5,5,0,Unknown,Home
+Boulogne,LWDWL,5,5,0,Unknown,Home
+Clermont,LLLLW,2,8,0,Unknown,Home
+Amiens,WLDLL,3,7,0,Unknown,Home
+Laval,DLDLL,2,8,0,Unknown,Home
+Bastia,DDLWW,6,4,0,Unknown,Home
+Dijon,WDDWD,7,3,0,Unknown,Home
+Rouen,LDDWW,6,4,0,Unknown,Home
+Sochaux,DDWWW,8,2,0,Unknown,Home
+Orleans,DWLLW,5,5,0,Unknown,Home
+Versailles,LWWLL,4,6,0,Unknown,Home
+Le Puy-en-Velay,LWWLW,6,4,0,Unknown,Home
+Fleury-Merogis,LWWLD,5,5,0,Unknown,Home
+Concarneau,WLDDD,5,5,0,Unknown,Home
+Caen,WLDDD,5,5,0,Unknown,Home
+Aubagne,LLDWD,4,6,0,Unknown,Home
+Villefranche,WWWLD,7,3,0,Unknown,Home
+Valenciennes,WLLWL,4,6,0,Unknown,Home
+Paris 13 Atl.,LLLDD,2,8,0,Unknown,Home
+Chateauroux,DLDLD,3,7,0,Unknown,Home
+Bourg en Bresse,WWDLW,7,3,0,Unknown,Home
+Quevilly Rouen,LDDLL,2,8,0,Unknown,Home
+Stade Briochin,DDDLD,4,6,0,Unknown,Home
+Bayern Munich,WDLWW,7,3,0,Unknown,Home
+Dortmund,WWWWW,10,0,0,Unknown,Home
+Hoffenheim,LWWWW,8,2,0,Unknown,Home
+RB Leipzig,WLDWL,5,5,0,Unknown,Home
+Stuttgart,LWWDW,7,3,0,Unknown,Home
+Bayer Leverkusen,DWWLL,5,5,0,Unknown,Home
+Freiburg,WLWDL,5,5,0,Unknown,Home
+Eintracht Frankfurt,DLLDL,2,8,0,Unknown,Home
+Union Berlin,DLLDD,3,7,0,Unknown,Home
+FC Koln,LWLWL,4,6,0,Unknown,Home
+Hamburger SV,WDDDL,5,5,0,Unknown,Home
+B. Monchengladbach,DDLDL,3,7,0,Unknown,Home
+Augsburg,LWWDD,6,4,0,Unknown,Home
+Mainz,WWWLW,8,2,0,Unknown,Home
+Wolfsburg,LLLDW,3,7,0,Unknown,Home
+Werder Bremen,LDLLD,2,8,0,Unknown,Home
+St. Pauli,WLDDL,4,6,0,Unknown,Home
+Heidenheim,LLLDL,1,9,0,Unknown,Home
+Darmstadt,WDWDD,7,3,0,Unknown,Home
+Schalke,DLDDL,3,7,0,Unknown,Home
+Paderborn,WLWLD,5,5,0,Unknown,Home
+Elversberg,LWDLD,4,6,0,Unknown,Home
+Hannover,WWWLL,6,4,0,Unknown,Home
+Hertha Berlin,WDDDD,6,4,0,Unknown,Home
+Kaiserslautern,LLDWL,3,7,0,Unknown,Home
+Bochum,DWDDD,6,4,0,Unknown,Home
+Karlsruher SC,DLDWD,5,5,0,Unknown,Home
+Nurnberg,LDLWW,5,5,0,Unknown,Home
+Arminia Bielefeld,WDDLD,5,5,0,Unknown,Home
+Holstein Kiel,LLDWW,5,5,0,Unknown,Home
+Dusseldorf,DWLWW,7,3,0,Unknown,Home
+Braunschweig,LWDLW,5,5,0,Unknown,Home
+Magdeburg,WLLWW,6,4,0,Unknown,Home
+Preussen Munster,DDLLD,3,7,0,Unknown,Home
+SG Dynamo Dresden,DDWWL,6,4,0,Unknown,Home
+Greuther Furth,LWDLL,3,7,0,Unknown,Home
+Cottbus,DWWDD,7,3,0,Unknown,Home
+Duisburg,WLWWD,7,3,0,Unknown,Home
+VfL Osnabruck,WWDWL,7,3,0,Unknown,Home
+Verl,LWLWW,6,4,0,Unknown,Home
+RW Essen,DDWDW,7,3,0,Unknown,Home
+Hansa Rostock,DLWWD,6,4,0,Unknown,Home
+Wehen,WDWWL,7,3,0,Unknown,Home
+Mannheim,WWLLD,5,5,0,Unknown,Home
+Munich 1860,LDDDL,3,7,0,Unknown,Home
+Ingolstadt,DWWWD,8,2,0,Unknown,Home
+Hoffenheim II,DLLLW,3,7,0,Unknown,Home
+Stuttgart II,WLLLW,4,6,0,Unknown,Home
+Viktoria Koln,DLWLD,4,6,0,Unknown,Home
+Regensburg,DWLLD,4,6,0,Unknown,Home
+Alemannia Aachen,DDWLD,5,5,0,Unknown,Home
+Saarbrucken,DLLDD,3,7,0,Unknown,Home
+Aue,DLLLW,3,7,0,Unknown,Home
+Ulm,LWWLL,4,6,0,Unknown,Home
+TSV Havelse,LWLWD,5,5,0,Unknown,Home
+Schweinfurt,LLLWL,2,8,0,Unknown,Home
+Meppen,WWWDD,8,2,0,Unknown,Home
+VfB Oldenburg,DDLWW,6,4,0,Unknown,Home
+Drochtersen/Assel,LWDWW,7,3,0,Unknown,Home
+Jeddeloh,DWLLW,5,5,0,Unknown,Home
+Phonix Lubeck,DDLDW,5,5,0,Unknown,Home
+Hamburger SV II,WDWWW,9,1,0,Unknown,Home
+Bremer,WWLWD,7,3,0,Unknown,Home
+Hannover II,WDWLL,5,5,0,Unknown,Home
+SC Weiche-08,LLWDD,4,6,0,Unknown,Home
+Lubeck,WDLWD,6,4,0,Unknown,Home
+Werder Bremen II,DWLWL,5,5,0,Unknown,Home
+Emden,DWDDW,7,3,0,Unknown,Home
+Hannoverscher SC,DDLLW,4,6,0,Unknown,Home
+Schoningen,LLWLL,2,8,0,Unknown,Home
+Norderstedt,LDLWL,3,7,0,Unknown,Home
+Lohne,LLWWL,4,6,0,Unknown,Home
+Altona,LLLLL,0,10,0,Unknown,Home
+St. Pauli II,LDDDL,3,7,0,Unknown,Home
+Meppen,WWWDD,8,2,0,Unknown,Home
+VfB Oldenburg,DDLWW,6,4,0,Unknown,Home
+Drochtersen/Assel,LWDWW,7,3,0,Unknown,Home
+Jeddeloh,DWLLW,5,5,0,Unknown,Home
+Phonix Lubeck,DDLDW,5,5,0,Unknown,Home
+Hamburger SV II,WDWWW,9,1,0,Unknown,Home
+Bremer,WWLWD,7,3,0,Unknown,Home
+Hannover II,WDWLL,5,5,0,Unknown,Home
+SC Weiche-08,LLWDD,4,6,0,Unknown,Home
+Lubeck,WDLWD,6,4,0,Unknown,Home
+Werder Bremen II,DWLWL,5,5,0,Unknown,Home
+Emden,DWDDW,7,3,0,Unknown,Home
+Hannoverscher SC,DDLLW,4,6,0,Unknown,Home
+Schoningen,LLWLL,2,8,0,Unknown,Home
+Norderstedt,LDLWL,3,7,0,Unknown,Home
+Lohne,LLWWL,4,6,0,Unknown,Home
+Altona,LLLLL,0,10,0,Unknown,Home
+St. Pauli II,LDDDL,3,7,0,Unknown,Home
+Lokomotive Leipzig,WLWWL,6,4,0,Unknown,Home
+Jena,WDLDW,6,4,0,Unknown,Home
+Erfurt,LWDWD,6,4,0,Unknown,Home
+Hallescher,WWDWD,8,2,0,Unknown,Home
+Zwickau,DWWWD,8,2,0,Unknown,Home
+Altglienicke,LWDWD,6,4,0,Unknown,Home
+Chemnitzer,WDDDL,5,5,0,Unknown,Home
+Magdeburg II,LLWLW,4,6,0,Unknown,Home
+BFC Preussen,LDWWW,7,3,0,Unknown,Home
+Luckenwalde,DDDLL,3,7,0,Unknown,Home
+Hertha Berlin II,LWLLW,4,6,0,Unknown,Home
+Babelsberg,LDWLD,4,6,0,Unknown,Home
+Meuselwitz,WLDWL,5,5,0,Unknown,Home
+Greifswald,WDDLW,6,4,0,Unknown,Home
+BFC Dynamo,LDDLL,2,8,0,Unknown,Home
+Chemie Leipzig,LLLWL,2,8,0,Unknown,Home
+Eilenburg,DWLLL,3,7,0,Unknown,Home
+Hertha Zehlendorf,LDDLL,2,8,0,Unknown,Home
+Inter,WWWWW,10,0,0,Unknown,Home
+AC Milan,WDWWD,8,2,0,Unknown,Home
+Napoli,WWLWD,7,3,0,Unknown,Home
+Juventus,DWWLW,7,3,0,Unknown,Home
+AS Roma,WLDWW,7,3,0,Unknown,Home
+Como,DWWLD,6,4,0,Unknown,Home
+Atalanta,WDWDW,8,2,0,Unknown,Home
+Lazio,DWDLW,6,4,0,Unknown,Home
+Udinese,LWWLD,5,5,0,Unknown,Home
+Bologna,LLLLW,2,8,0,Unknown,Home
+Sassuolo,LWWLL,4,6,0,Unknown,Home
+Cagliari,LWWWL,6,4,0,Unknown,Home
+Torino,DWLLL,3,7,0,Unknown,Home
+Parma,WLLDD,4,6,0,Unknown,Home
+Genoa,LLWDW,5,5,0,Unknown,Home
+Cremonese,LLLDL,1,9,0,Unknown,Home
+Lecce,WLDLL,3,7,0,Unknown,Home
+Fiorentina,DLLWD,4,6,0,Unknown,Home
+Pisa,DLLDD,3,7,0,Unknown,Home
+Verona,DLLDL,2,8,0,Unknown,Home
+Venezia,WWWWW,10,0,0,Unknown,Home
+Monza,WWWDL,7,3,0,Unknown,Home
+Frosinone,LDWDW,6,4,0,Unknown,Home
+Palermo,WWDWD,8,2,0,Unknown,Home
+Cesena,WLLWL,4,6,0,Unknown,Home
+Catanzaro,WLDLL,3,7,0,Unknown,Home
+Juve Stabia,DDWWD,7,3,0,Unknown,Home
+Modena,LDDWL,4,6,0,Unknown,Home
+Carrarese,DLWWW,7,3,0,Unknown,Home
+Sudtirol,DWWWW,9,1,0,Unknown,Home
+Empoli,LDLLW,3,7,0,Unknown,Home
+Avellino,LWLLW,4,6,0,Unknown,Home
+Padova,DLLLW,3,7,0,Unknown,Home
+Sampdoria,WWDDL,6,4,0,Unknown,Home
+Mantova,WDLWD,6,4,0,Unknown,Home
+Entella,DDLDW,5,5,0,Unknown,Home
+Reggiana,LDLLL,1,9,0,Unknown,Home
+Spezia,DLWLL,3,7,0,Unknown,Home
+Bari,LLWLL,2,8,0,Unknown,Home
+Pescara,LDLLD,2,8,0,Unknown,Home

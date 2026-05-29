@@ -1,0 +1,27 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+credentials*
+
+# Data / state
+*.db
+*.sqlite
+*.log
+data/raw/
+data/processed/
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

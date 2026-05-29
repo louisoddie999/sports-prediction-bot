@@ -1,0 +1,12 @@
+# Match,Home Team,Away Team,H2H Home Wins,H2H Away Wins,H2H Draws
+# Example: Mexico vs South Africa,Mexico,South Africa,3,1,1
+
+# Instructions:
+# 1. Go to a stats website (FBref, Sofascore, etc.)
+# 2. Search for head-to-head history between the two teams
+# 3. Count wins for each team and draws in their last 10 meetings
+# 4. Add one line per match you want to analyze
+
+# Format: MatchName,HomeTeam,AwayTeam,HomeWins,AwayWins,Draws
+
+# Add your match H2H data below:

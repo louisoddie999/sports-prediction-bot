@@ -1,0 +1,19 @@
+team_id,team_name,rank,points,matches_played,wins,draws,losses,goals_for,goals_against,goal_diff,form
+157,Bayern Munich,1,71,34,21,8,5,92,38,54,WLWWW
+165,Borussia Dortmund,2,71,34,22,5,7,83,44,39,DWWWD
+173,RB Leipzig,3,66,34,20,6,8,64,41,23,WWWWW
+182,Union Berlin,4,62,34,18,8,8,51,38,13,WLWLD
+160,SC Freiburg,5,59,34,17,8,9,51,44,7,LWLLW
+168,Bayer Leverkusen,6,50,34,14,8,12,57,49,8,LDDLD
+169,Eintracht Frankfurt,7,50,34,13,11,10,58,52,6,WDWLD
+161,VfL Wolfsburg,8,49,34,13,10,11,57,48,9,LLWLW
+164,FSV Mainz 05,9,46,34,12,10,12,54,55,-1,DLLLL
+163,Borussia Monchengladbach,10,43,34,11,10,13,52,55,-3,WDLWL
+192,FC Koln,11,42,34,10,12,12,49,54,-5,LDWWL
+167,1899 Hoffenheim,12,36,34,10,6,18,48,57,-9,DWLWL
+162,Werder Bremen,13,36,34,10,6,18,51,64,-13,LDLLL
+176,VfL BOCHUM,14,35,34,10,5,19,40,72,-32,WDWLD
+170,FC Augsburg,15,34,34,9,7,18,42,63,-21,LLLWD
+172,VfB Stuttgart,16,33,34,7,12,15,45,57,-12,DWDLW
+174,FC Schalke 04,17,31,34,7,10,17,35,71,-36,LDLWW
+159,Hertha Berlin,18,29,34,7,8,19,42,69,-27,WDLWL
