@@ -1,47 +1,52 @@
-# Sports Prediction Bot
+# Football Prediction Research
 
-A self-learning football prediction system combining a statistical ensemble with expected-value (EV) filtering to surface value bets. Two components:
+A portfolio project exploring football data pipelines, probabilistic match models, calibration, and expected-value analysis.
 
-- **`soccer-prediction/`** — data → model → prediction ML pipeline
-- **`value-bet-analyzer/`** — bookmaker-margin removal + EV calculation (v7.3)
+The repository contains two related experiments:
 
-> **Note:** Sanitized portfolio version. All API keys and tokens removed — configure your own via `.env` (see `.env.example`).
+- `soccer-prediction/` — data collection, preprocessing, feature engineering, model training, prediction, and a FastAPI interface
+- `value-bet-analyzer/` — probability normalization, market comparison, and configurable expected-value filters
 
-## Highlights
+## Engineering focus
 
-- **82+ matches analyzed daily**
-- Ensemble beats single models by **~5%**; accuracy improves via automated calibration
-- **3–5 EV-positive bets/day** at a 4–8% modeled ROI
-- Ensemble of **Poisson · Dixon-Coles · ELO · form adjustment**
-- **Platt calibration** + league-wide Dixon-Coles normalization (v7.3)
-- Multi-source data with fallbacks; Telegram alerts; professional reporting
+- Reproducible data preparation across multiple leagues
+- Feature construction from form, standings, goals, and Elo-style ratings
+- Ensemble model experiments
+- Poisson and Dixon-Coles score modeling
+- Probability calibration
+- Clear separation between model probability, bookmaker-implied probability, and decision thresholds
+- Environment-based credentials and optional Telegram notifications
 
-## How It Works
-
-| Module | Responsibility |
-|--------|----------------|
-| `soccer-prediction/main.py` | Prediction pipeline entry point |
-| `soccer-prediction/model_training.py` | Feature engineering + model training |
-| `soccer-prediction/prediction.py` | Live prediction generation |
-| `value-bet-analyzer/value_bet_analyzer_v7.3.py` | Margin removal, EV, signal-convergence filtering |
-
-## Tech Stack
-
-Python · API-Football / Football-Data.org · statistical modeling (Poisson, Dixon-Coles, ELO) · Platt calibration · Telegram alerts
-
-## Setup
-
-```bash
-cp .env.example .env      # fill in your own API keys
-python -m pip install -r requirements.txt   # if present
-python soccer-prediction/main.py
+```mermaid
+flowchart LR
+    A["Historical and fixture data"] --> B["Validation and preprocessing"]
+    B --> C["Features and ratings"]
+    C --> D["Statistical and ML models"]
+    D --> E["Probability calibration"]
+    E --> F["Market and EV analysis"]
+    F --> G["Research report or API"]
 ```
 
-All keys load from environment variables — nothing is hardcoded.
+## Run locally
 
-## Disclaimer
+```bash
+git clone https://github.com/louisoddie999/sports-prediction-bot.git
+cd sports-prediction-bot
+copy .env.example .env
+python -m pip install -r soccer-prediction/requirements.txt
+python soccer-prediction/test_setup.py
+```
 
-For educational and research purposes only. No prediction guarantees profit. Betting carries financial risk — gamble responsibly and only where legal.
+Add your own data-provider credentials to `.env`. Availability, rate limits, and schemas depend on the provider and may change.
 
----
-Built by **Louis Odiatu** · github.com/louisoddie999
+## Evidence and limitations
+
+The checked-in datasets and outputs are development fixtures for inspecting the pipeline. This public repository does not present a verified live accuracy, ROI, or profitability claim. Any model comparison should be reproduced with a time-aware holdout or walk-forward evaluation before conclusions are drawn.
+
+## Responsible use
+
+This project is for software-engineering and statistical-research purposes. Predictions are uncertain, can fail, and do not guarantee financial returns. Gambling involves financial risk; follow applicable laws and seek help if gambling becomes harmful.
+
+## Author
+
+[Louis Odiatu](https://www.linkedin.com/in/louis-odiatu) — AI Automation & Product Engineer

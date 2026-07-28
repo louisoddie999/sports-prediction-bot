@@ -106,7 +106,7 @@ FEATURE_CONFIG = {
 PREDICTION_CONFIG = {
     "min_confidence": 0.60,  # Minimum probability to recommend
     "high_confidence": 0.75,  # High confidence threshold
-    "expected_accuracy": 0.65,  # Realistic target (95% is unrealistic)
+    "expected_accuracy": 0.65,  # Experimental target; validate on unseen data
     "value_bet_threshold": 1.1,  # Odds ratio for value bets
 }
 
@@ -138,7 +138,7 @@ FEATURE_IMPORTANCE_THRESHOLD = 0.01  # Drop features with importance < 1%
 RESPONSIBLE_BETTING_WARNING = """
 ⚠️ RESPONSIBLE BETTING WARNING ⚠️
 This bot provides statistical predictions for educational purposes only.
-- No prediction system guarantees 95%+ accuracy
+- No prediction system guarantees accuracy or profit
 - Soccer has inherent randomness (injuries, referee decisions, luck)
 - Past performance does not guarantee future results
 - Only bet what you can afford to lose
@@ -154,9 +154,9 @@ LIMITATIONS:
 4. Overfitting Risk: Model may memorize patterns that don't generalize
 5. API Limitations: Real-time data may have delays or inaccuracies
 
-REALISTIC EXPECTATIONS:
-- Top professional models achieve 50-55% accuracy on match outcomes
-- Over/Under goals: 55-60% accuracy is excellent
-- Correct score: 10-15% accuracy (high variance)
-- A 65-70% success rate would be exceptional for this system
+EVALUATION REQUIREMENTS:
+- Use time-ordered, unseen test data
+- Report sample size, period, calibration, and baseline
+- Treat configured thresholds as hypotheses until reproduced
+- Do not infer profitability from model confidence alone
 """
